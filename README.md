@@ -1,8 +1,5 @@
 # 👋 Discover My GitHub: Where Innovation Meets Code!
 
-Experienced Professional Blockchain Engineer with over 8 years of expertise in designing, developing, and maintaining decentralized applications and blockchain-based systems.
-
-
 ## Motivational Quote
 
 ```rust
